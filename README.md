@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Ajay Krupal K. a Tech Enthusiast.
+I am Ajay Krupal K., a Tech Enthusiast.
 
 👨🏼‍🎓 My Portfolio Website: https://akrupalk.netlify.app/
 
