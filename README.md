@@ -2,7 +2,7 @@
 
 👨🏼‍🎓 My Portfolio Website: https://akrupalk.netlify.app/
 
-💻 Ex-Tech Intern @ <a href="https://iimbx.iimb.ac.in/">Indian Institute of Management, Bangalore</a>
+💻 Ex-Tech Intern @<a href="https://iimbx.iimb.ac.in/">Indian Institute of Management, Bangalore</a>
 
 ## Technologies I have worked on:
 <span>
