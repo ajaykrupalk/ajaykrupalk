@@ -27,4 +27,5 @@ Connect on: <a href="https://www.linkedin.com/in/ajaykrupalk/">LinkedIn</a>
   <img src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" alt="Netlify" height="24" width="24"/>
 </span>
 
+<br><br>
 ![Ajay's github stats](https://github-readme-stats.vercel.app/api?username=ajaykrupalk)
