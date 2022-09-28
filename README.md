@@ -2,6 +2,8 @@
 
 I am Ajay Krupal K., a Tech Enthusiast and an ardent developer
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ajaykrupalk.visitor-badge&left_text=MyPageVisitors)
+
 👨🏼‍🎓 My Portfolio Website: https://akrupalk.netlify.app
 
 💻 Ex-Tech Intern @<a href="https://iimbx.iimb.ac.in/">Indian Institute of Management, Bangalore</a>
