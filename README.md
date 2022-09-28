@@ -29,3 +29,5 @@ Connect on: <a href="https://www.linkedin.com/in/ajaykrupalk/">LinkedIn</a>
 
 <br><br>
 ![Ajay's github stats](https://github-readme-stats.vercel.app/api?username=ajaykrupalk)
+
+[![](https://visitcount.itsvg.in/api?id=ajaykrupalk&icon=1&color=6)](https://visitcount.itsvg.in)
