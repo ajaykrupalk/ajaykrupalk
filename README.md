@@ -4,7 +4,7 @@ I am Ajay Krupal K., a Tech Enthusiast and an ardent developer
 
 👨🏼‍🎓 My Portfolio Website: https://akrupalk.netlify.app
 
-💻 Ex-Tech Intern @<a href="https://iimbx.iimb.ac.in/">Indian Institute of Management, Bangalore</a>
+💻 Former Tech Intern @<a href="https://iimbx.iimb.ac.in/">Indian Institute of Management, Bangalore</a>
 
 Connect on: <a href="https://www.linkedin.com/in/ajaykrupalk/">LinkedIn</a>
 
