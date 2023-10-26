@@ -2,7 +2,9 @@
 
 I am Ajay Krupal K., a Tech Enthusiast and an ardent developer
 
-👨🏼‍🎓 My Portfolio Website: https://akrupalk.netlify.app
+👨🏼‍🎓 My Portfolio Website: https://ajaykrupalk.vercel.app/
+
+👨‍💻 Current Developer @<a href="https://www.loyalytics.ai/">Loyalytics, Bangalore</a>
 
 💻 Former Tech Intern @<a href="https://iimbx.iimb.ac.in/">Indian Institute of Management, Bangalore</a>
 
